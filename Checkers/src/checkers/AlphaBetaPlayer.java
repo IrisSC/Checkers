@@ -1,7 +1,7 @@
 package checkers;
 /* Plays Checkers using the Alpha Beta stragigy
  * @author Iris Shaker-Check
- * @version Dec. 2 2020
+ * @version  Dec. 2 2020
  */
 
 import java.util.ArrayList;
